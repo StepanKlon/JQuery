@@ -1,0 +1,36 @@
+div {
+    border: 5px solid #4285f4;
+    width: 200px;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    font-size: 24px;
+    font-family: 'Indie Flower', cursive;
+    font-family: 'PT Serif', serif;
+    font-size: 20px;
+    padding: 0px;
+  }
+  
+  .first {
+    background: #E67676;
+    padding: 20px;
+    margin: 0px;
+  }
+  
+  .second {
+    background: #F2F062;
+    padding: 20px;
+    margin: 0px;
+  }
+  
+  .third {
+    background: #A9E6E6;
+    padding: 20px;
+    margin: 0px;
+  }
+  
+  .fourth {
+    background: #7692E4;
+    padding: 20px;
+    margin: 0px;
+  }
